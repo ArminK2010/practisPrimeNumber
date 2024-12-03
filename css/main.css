@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin: 50px auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 50px;
+    box-sizing: border-box;
+}
+h2{
+    margin: 50px auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 50px;
+    box-sizing: border-box;
+}
